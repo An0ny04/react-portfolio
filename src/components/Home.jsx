@@ -21,7 +21,7 @@ const Home = () => {
         <div>
           <button className="text-white group border-2 px-6 py-3 ,y-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
             View Work
-            <span className=" group-hover hover:rotate-90 duration-300">
+            <span className=" group-hover duration-300">
               <HiArrowNarrowRight className="ml-3" />
             </span>
           </button>
